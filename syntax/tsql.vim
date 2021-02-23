@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:   Transact-SQL
 " Maintainer: Krzysztof Cieslak
-" Repository: https://gitlab.com/vim-scripts/vim-tsql-syntax
+" Repository: https://github.com/krcs/vim-tsql-syntax
 " License:    Vim
 
 if exists("b:current_syntax")
